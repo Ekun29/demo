@@ -1,0 +1,38 @@
+body{
+  font-family: fantasy;
+  background-size: auto;
+}
+#Reason {
+  background-image: url("file:///C:/Users/ekun/Desktop/Personal%20Me/FAM/38c3a0bf6d5e9fa7a032adc43274f843.jpg");
+  color: purple;
+  font-size: 40px;
+  text-align: center;
+}
+.sab p {
+  color: khaki;
+  font-family: bradley hand itc;
+}
+.Miss{
+  color: mediumspringgreen;
+  font-style: bold;
+  font-size: 28px;
+}
+.Love{
+  color: white;
+  font-style: bold;
+  font-size: 28px;
+}
+
+.body {
+  background-image: url("file:///C:/Users/ekun/Desktop/Personal%20Me/FAM/Snapchat-786434907.jpg");
+  color: purple;
+  font-family: Arial;
+  text-align: center;
+  font-size: 50px;
+}
+#main {
+  text-align: right;
+  font-size: 40px;
+  padding-right: 20px;
+  font-family: bradley hand itc;
+}
