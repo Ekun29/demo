@@ -1,0 +1,40 @@
+body{
+  font-family: fantasy;
+  background-size: auto;
+}
+#Reason {
+  background-image: url("../Images/Beauty.jpg");
+  background-size: cover;
+  color: purple;
+  font-size: 40px;
+  text-align: center;
+}
+.sab p {
+  color: khaki;
+  font-family: bradley hand itc;
+}
+.Miss{
+  color: mediumspringgreen;
+  font-style: bold;
+  font-size: 28px;
+}
+.Love{
+  color: white;
+  font-style: bold;
+  font-size: 28px;
+}
+
+.body {
+  background-image: url("../Images/Beauty and Heart.jpg");
+  color: purple;
+  font-family: Arial;
+  text-align: center;
+  font-size: 50px;
+  background-size: cover;
+}
+#main {
+  text-align: right;
+  font-size: 40px;
+  padding-right: 20px;
+  font-family: bradley hand itc;
+}
