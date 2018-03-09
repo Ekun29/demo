@@ -57,6 +57,7 @@ text-transform: capitalize;
 
   background-image: url("../Images/Beauty and Heart.jpg");
   background-size: cover;
+  color: purple;
 }
 #yes h1 {
   font-size: 40px;
